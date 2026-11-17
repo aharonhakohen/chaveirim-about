@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "title": "Launch Official Chaveirim of Central Jersey Information & Brand Verification Site (about.cjchaveirim.org)",
+  "releasedAt": "2026-11-17",
+  "summary": "Introduces a permanent, fast, zero-maintenance public profile website at https://about.cjchaveirim.org for Chaveirim of Central Jersey (operated by Chaveirim Volunteer Services Inc.). Built to provide stranded motorists, donors, Apple Business Connect, and carrier/SMS compliance reviewers with verified 24/7 hotline information ((732) 370-2229), service coverage details, 501(c)(3) corporate registration details, Privacy Policy, and SMS Communication Terms—while keeping cjchaveirim.org forwarding directly to the Banquest donation portal.",
+  "highlights": [
+    "Displays the official Chaveirim of Central Jersey 3D shield badge, 24/7 dispatch hotline ((732) 370-2229), and direct Banquest donation button with automatic phone/system light and dark mode support.",
+    "Explicitly links the public brand name (Chaveirim of Central Jersey) with the legal 501(c)(3) nonprofit entity (Chaveirim Volunteer Services Inc., EIN 43-1987913) and registered address (139 Carol Street / PO Box 56, Lakewood, NJ 08701) in both visible page cards and structured JSON-LD metadata.",
+    "Includes permanent /privacy/ and /terms/ pages covering operational data handling and carrier-compliant 10DLC SMS opt-in/opt-out policies."
+  ]
+}

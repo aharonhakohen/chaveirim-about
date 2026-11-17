@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "title": "Use Official PO Box Mailing Address & Streamline Public Organization Metadata (about.cjchaveirim.org)",
+  "releasedAt": "2026-11-17",
+  "summary": "Updates https://about.cjchaveirim.org so only the official PO Box mailing address (PO Box 56, Lakewood, NJ 08701) and 501(c)(3) nonprofit status are displayed publicly across all pages and metadata, removing residential street address and EIN details that are not required for brand verification.",
+  "highlights": [
+    "Displays PO Box 56, Lakewood, NJ 08701 across the Organization Details card, page footers, Privacy Policy, SMS Terms, and JSON-LD schema.",
+    "Preserves the explicit legal-entity connection between Chaveirim of Central Jersey and Chaveirim Volunteer Services Inc. alongside the 24/7 dispatch hotline ((732) 370-2229) and direct Banquest donation link."
+  ]
+}
